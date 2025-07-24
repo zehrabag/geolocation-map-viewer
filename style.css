@@ -1,0 +1,30 @@
+/*#map {
+    height: 100%;
+}
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}*/
+
+/* styles.css */
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#map {
+    height: 70%;
+    /* 100% yerine, örneğin 70% verilebilir */
+    width: 100%;
+}
+
+#result {
+    padding: 20px;
+    font-size: 18px;
+}
